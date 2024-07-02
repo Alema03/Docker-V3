@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GameServiceTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-07-02T19:36:42" hostname="LAPTOP-JKAB9HT6" time="0.773">
+  <properties/>
+  <testcase name="testStartWave()" classname="GameServiceTest" time="0.732"/>
+  <testcase name="testPlaceTower()" classname="GameServiceTest" time="0.021"/>
+  <testcase name="testGameState()" classname="GameServiceTest" time="0.017"/>
+  <system-out><![CDATA[[ ][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ]
+
+PuntuaciÃ³n: 0
+Vida de la base: 100
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
